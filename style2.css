@@ -9,17 +9,18 @@ body{
 
  header{
 	background-color:#ebebeb;
-	padding-top:5px;
+	padding-top:15px;
 	text-align:center;
-	height:100px;
+	height:90px;
 	margin-left: 150px;  
 	} 
 
 #nav{
 	background-color:#ebebeb;
-	margin:auto;
+	margin-top:10px;
+	padding-top: 10px;
 	text-align:center;
-	height:100px;
+	height:90px;
 	margin-left: 150px;
 }
 
@@ -39,10 +40,11 @@ body{
   margin-left: 150px;
   text-align:center;
   width:85%;
-  height:175px;
+  height:172px;
   position: relative;
   left:-100px;
   top: 400;
+  Padding-top:3px;
   padding-left: 3px;
   padding-right: 3px;
   background-color:#777;
@@ -52,26 +54,29 @@ body{
   margin-left: 150px;
   text-align:center;
   width:95% ;
-  height:50px;
+  height:47px;
   position: relative;
   left:-143px;
-  top: 375;
+  top: 385;
   background-color:#ebebeb;
   color:#777;
   padding-left: 2px;
+  padding-top: 3px
   }
 
   #p{clear:both;
+  margin-top:3px;
   margin-left: 150px;
   text-align:center;
   width:95% ;
-  height:50px;
+  height:47px;
   position: relative;
   left:-143px;
-  top: 375;
+  top: 372;
   background-color:#ebebeb;
   color:#777;
   padding-left: 2px;
+  padding-top: 3px;
   }
 #aside{background-color:#ebebeb;
 	margin-top:10px;
@@ -89,8 +94,10 @@ body{
 	margin:10px;
 	margin:auto;
 	text-align:center;
-	height:100px;
-	margin-left: 150px;	
+	height:90px;
+	margin-left: 150px;
+	padding-top:10px;
+	margin-bottom: 20px	
 }
 .clearfix::after{
 	content:"";
